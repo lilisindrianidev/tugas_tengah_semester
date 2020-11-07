@@ -2,21 +2,17 @@
 <project version="4">
   <component name="AndroidLayouts">
     <shared>
-      <config>
-        <device id="pixel_xl" />
-        <device id="pixel_2" />
-        <device id="pixel" />
-      </config>
+      <config />
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ca92799-7847-4141-86a7-a9c0a96c49f0" name="Default Changelist" comment="" />
+    <list default="true" id="064c5a76-e3ab-4cd9-b655-27e965007402" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="28fccad8" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_API_28" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -25,42 +21,19 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view>
-          <tree_state>
-            <expand />
-            <select />
-          </tree_state>
-        </projects_view>
+        <projects_view />
       </state>
     </system>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Kotlin Class" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectId" id="1jhB1oKCiJiM6p0Ex2PPnHvifZs" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1hG6E8Kkp1giSDusSLS3Z8ojyKA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="818HGBTQ2229H" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-11-03T13:49:31.079Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SelectDeploymentTargetsDialog.selectedDevices" value="818HGBTQ2229H" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\matkul akakom\semester 5\praktikum berbasis mobile\TugasTengahSemester\app\src\main\res\drawable" />
-    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -127,58 +100,26 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7ca92799-7847-4141-86a7-a9c0a96c49f0" name="Default Changelist" comment="" />
-      <created>1604246230457</created>
+      <changelist id="064c5a76-e3ab-4cd9-b655-27e965007402" name="Default Changelist" comment="" />
+      <created>1599624972983</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1604246230457</updated>
+      <updated>1599624972983</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="402" y="13" key="#app" timestamp="1604285194678">
+    <state x="454" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599625163893">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="402" y="13" key="#app/0.0.1366.738@0.0.1366.738" timestamp="1604285194678" />
-    <state x="263" y="123" key="AndroidCreateResourceDirectoryDialog" timestamp="1604719080346">
+    <state x="454" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1599625163893" />
+    <state x="110" y="120" width="1146" height="498" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1604245197543">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="263" y="123" key="AndroidCreateResourceDirectoryDialog/0.0.1366.738@0.0.1366.738" timestamp="1604719080346" />
-    <state width="1286" height="166" key="GridCell.Tab.0.bottom" timestamp="1604590993923">
+    <state x="110" y="120" width="1146" height="498" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.738@0.0.1366.738" timestamp="1604245197543" />
+    <state x="378" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1604243179762">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1286" height="166" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1604590993923" />
-    <state width="1286" height="166" key="GridCell.Tab.0.center" timestamp="1604590993922">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1286" height="166" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1604590993922" />
-    <state width="1286" height="166" key="GridCell.Tab.0.left" timestamp="1604590993922">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1286" height="166" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1604590993922" />
-    <state width="1286" height="166" key="GridCell.Tab.0.right" timestamp="1604590993922">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1286" height="166" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1604590993922" />
-    <state x="184" y="11" key="SettingsEditor" timestamp="1604285560475">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="184" y="11" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1604285560475" />
-    <state x="499" y="146" key="chooseDestDirectoryDialog" timestamp="1604420222423">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="499" y="146" key="chooseDestDirectoryDialog/0.0.1366.738@0.0.1366.738" timestamp="1604420222423" />
-    <state x="110" y="120" width="1146" height="498" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1604247170547">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="110" y="120" width="1146" height="498" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.738@0.0.1366.738" timestamp="1604247170547" />
-    <state x="378" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1604711297410">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="378" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1604711297410" />
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1604246913110">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1604246913110" />
+    <state x="378" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1604243179762" />
   </component>
 </project>

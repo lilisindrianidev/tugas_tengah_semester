@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.tugastengahsemester.lilisindriani"
+    package="com.example.pert1"
     android:versionCode="1"
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="14"
+        android:minSdkVersion="16"
         android:targetSdkVersion="30" />
 
     <application
@@ -18,11 +18,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <meta-data
-            android:name="com.google.android.actions"
-            android:resource="@xml/actions" />
-
-        <activity android:name="com.tugastengahsemester.lilisindriani.MainActivity" >
+        <activity android:name="com.example.pert1.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
