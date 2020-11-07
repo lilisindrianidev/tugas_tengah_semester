@@ -1,0 +1,4 @@
+#Sat Nov 07 10:21:37 ICT 2020
+base.0=E\:\\matkul akakom\\semester 5\\praktikum berbasis mobile\\TugasTengahSemester\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
